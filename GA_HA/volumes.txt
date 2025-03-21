@@ -1,0 +1,25 @@
+File STL		Volume (cm³)
+========================================
+HA main branch.stl		63.43593 cm³
+HAbranch_1.stl		0.38599 cm³
+HAbranch_2.stl		0.28552 cm³
+HAbranch_3.stl		0.61586 cm³
+HAbranch_4.stl		0.02377 cm³
+HAbranch_5.stl		0.07348 cm³
+HAbranch_6.stl		0.49080 cm³
+HAbranch_7.stl		0.56329 cm³
+HAbranch_8.stl		0.50658 cm³
+HAbranch_9.stl		0.17677 cm³
+HAterritory_1.stl		331.07972 cm³
+HAterritory_2.stl		333.85342 cm³
+HAterritory_3.stl		243.56869 cm³
+HAterritory_5.stl		97.79733 cm³
+HAterritory_6.stl		11.52286 cm³
+HAterritory_7.stl		150.18440 cm³
+HAterritory_8 .stl		293.07013 cm³
+HAterritory_9.stl		171.46141 cm³
+Mass_1.stl		504.09622 cm³
+Mass_2.stl		1.60031 cm³
+Mass_3.stl		1.60907 cm³
+Mass_4.stl		1.46451 cm³
+Mass_5.stl		0.53417 cm³
