@@ -1,0 +1,12 @@
+File STL		Volume (cm³)
+========================================
+Mass_1.stl		502.75727 cm³
+Mass_2.stl		1.58427 cm³
+Mass_3.stl		1.59123 cm³
+Mass_4.stl		1.45271 cm³
+Mass_5.stl		0.52414 cm³
+artery.stl		66.77746 cm³
+hepatic_portal_veins.stl		28.79681 cm³
+hepatic_vein.stl		26.24491 cm³
+liver.stl		2185.28879 cm³
+svc.stl		47.62456 cm³
