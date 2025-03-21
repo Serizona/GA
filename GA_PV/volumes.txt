@@ -1,0 +1,28 @@
+File STL		Volume (cm³)
+========================================
+Mass_1.stl		502.75727 cm³
+Mass_2.stl		1.58427 cm³
+Mass_3.stl		1.59123 cm³
+Mass_4.stl		1.45271 cm³
+Mass_5.stl		0.52414 cm³
+PV_main_branch.stl		17.37704 cm³
+PVbranch_1.stl		1.24552 cm³
+PVbranch_10.stl		0.50023 cm³
+PVbranch_2.stl		2.44070 cm³
+PVbranch_3.stl		1.52125 cm³
+PVbranch_4.stl		0.88640 cm³
+PVbranch_5.stl		1.11171 cm³
+PVbranch_6.stl		0.39785 cm³
+PVbranch_7.stl		1.55295 cm³
+PVbranch_8.stl		0.69769 cm³
+PVbranch_9.stl		0.18259 cm³
+PVterritory_1.stl		189.10681 cm³
+PVterritory_10.stl		108.76898 cm³
+PVterritory_2.stl		179.79299 cm³
+PVterritory_3.stl		273.25944 cm³
+PVterritory_4.stl		139.53359 cm³
+PVterritory_5.stl		224.16467 cm³
+PVterritory_6.stl		152.24163 cm³
+PVterritory_7.stl		151.86786 cm³
+PVterritory_8.stl		138.33420 cm³
+PVterritory_9.stl		137.99157 cm³
