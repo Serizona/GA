@@ -1,0 +1,26 @@
+File STL		Volume (cm³)
+========================================
+HVbranch_1.stl		1.74009 cm³
+HVbranch_2.stl		1.98794 cm³
+HVbranch_3.stl		1.38437 cm³
+HVbranch_4.stl		1.63554 cm³
+HVbranch_5.stl		3.83992 cm³
+HVbranch_6.stl		1.18908 cm³
+HVbranch_7.stl		3.30324 cm³
+HVbranch_8.stl		1.13562 cm³
+HVbranch_9.stl		0.77188 cm³
+HVterritory_1.stl		215.18678 cm³
+HVterritory_2.stl		234.10916 cm³
+HVterritory_3.stl		190.49429 cm³
+HVterritory_4.stl		87.56696 cm³
+HVterritory_5.stl		345.50904 cm³
+HVterritory_6.stl		155.01793 cm³
+HVterritory_7.stl		254.50807 cm³
+HVterritory_8.stl		116.24603 cm³
+HVterritory_9.stl		93.07131 cm³
+Mass_1.stl		502.75727 cm³
+Mass_2.stl		1.58427 cm³
+Mass_3.stl		1.59123 cm³
+Mass_4.stl		1.45271 cm³
+Mass_5.stl		0.52414 cm³
+hepatic vein.stl		8.54930 cm³
