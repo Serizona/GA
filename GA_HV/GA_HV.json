@@ -5,7 +5,7 @@
             "path": "GA_HV/HVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#df9820",
+            "color": "#5d038f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "GA_HV/HVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#bcbcae",
+            "color": "#4d0840",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "GA_HV/HVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#4befdc",
+            "color": "#d15cf2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "GA_HV/HVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#226ec4",
+            "color": "#3ccca8",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "GA_HV/HVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#219e09",
+            "color": "#b3a6be",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "GA_HV/HVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#f3bf71",
+            "color": "#264e6e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "GA_HV/HVbranch_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_7.stl",
             "opacity": 1.0,
-            "color": "#081a49",
+            "color": "#4c1a62",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "GA_HV/HVbranch_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_8.stl",
             "opacity": 1.0,
-            "color": "#e82b0b",
+            "color": "#93fbee",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "GA_HV/HVbranch_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVbranch_9.stl",
             "opacity": 1.0,
-            "color": "#0b1788",
+            "color": "#a51214",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "GA_HV/HVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#df9820",
+            "color": "#5d038f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "GA_HV/HVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#bcbcae",
+            "color": "#4d0840",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "GA_HV/HVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#4befdc",
+            "color": "#d15cf2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -221,7 +221,7 @@
             "path": "GA_HV/HVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#226ec4",
+            "color": "#3ccca8",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "GA_HV/HVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#219e09",
+            "color": "#b3a6be",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "GA_HV/HVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#f3bf71",
+            "color": "#264e6e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "GA_HV/HVterritory_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_7.stl",
             "opacity": 0.4,
-            "color": "#081a49",
+            "color": "#4c1a62",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -293,7 +293,7 @@
             "path": "GA_HV/HVterritory_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_8.stl",
             "opacity": 0.4,
-            "color": "#e82b0b",
+            "color": "#93fbee",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -311,7 +311,7 @@
             "path": "GA_HV/HVterritory_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_HV/HVterritory_9.stl",
             "opacity": 0.4,
-            "color": "#0b1788",
+            "color": "#a51214",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
