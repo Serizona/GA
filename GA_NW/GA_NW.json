@@ -113,7 +113,7 @@
             "path": "GA_NW/hepatic_portal_veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_NW/hepatic_portal_veins.stl",
             "opacity": 1.0,
-            "color": "#7bc8ff",
+            "color": "#63bbff",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
