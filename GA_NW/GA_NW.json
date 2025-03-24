@@ -131,7 +131,7 @@
             "path": "GA_NW/hepatic_vein.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA/main/GA_NW/hepatic_vein.stl",
             "opacity": 1.0,
-            "color": "#9a8ef0",
+            "color": "#a39aed",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
