@@ -1,5 +1,5 @@
 ID: GA
-Year of Birth: 1955
-Age: 70
-Study Date: 25-01-2025
+Year of Birth: -
+Age: -
+Study Date: -
 Clinical Information: 
